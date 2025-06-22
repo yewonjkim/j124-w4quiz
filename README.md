@@ -5,4 +5,4 @@ The question I picked was ***“Given the opportunity, would you eliminate the p
 
 My chart ***“Should Reclining Seats Be Eliminated on Planes?”*** shows that **595** respondents answered *“No,”* while **259** respondents answered *“Yes.”* This reveals that most respondents would not eliminate reclining seats on planes, likely due to the individual comfort they receieve from reclining their own seats. 
 
-![This is a data wrapper chart](J124 Yewon W4 Quiz Q5.png)
+![This is a data wrapper chart]([J124 Yewon W4 Quiz Q5.png](https://github.com/yewonjkim/j124-w4quiz/blob/5be1c7e57e6b908733288598165057344f0f3c59/J124%20Yewon%20W4%20Quiz%20Q5.png))
